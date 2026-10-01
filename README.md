@@ -116,6 +116,12 @@ Fontes utilizadas: https://www.youtube.com/watch?v=v_ZCtgwbS3o
                    https://www.youtube.com/watch?v=yWU5bm_pZzY
                    https://www.youtube.com/watch?v=ijXXaIYsVx4
 
+<img width="1914" height="961" alt="1 - Inicio" src="https://github.com/user-attachments/assets/7e990965-63de-452f-8153-2a59356f73a3" />
+<img width="1916" height="961" alt="2 - Pergunta 1" src="https://github.com/user-attachments/assets/18040229-aa01-41f8-99ab-b1069d6cf698" />
+<img width="1919" height="962" alt="3 - Pergunta 1 2" src="https://github.com/user-attachments/assets/dfd98794-36f6-41c6-8f62-9efd591a2746" />
+<img width="1918" height="967" alt="4 - Pergunta 1 3" src="https://github.com/user-attachments/assets/0214ec31-e514-4213-ba1f-a744e22f21c5" />
+
+
 Pergunta 2
 
 Pergunta: Gere um guia de estudos com quiz e glossário
@@ -127,6 +133,13 @@ Fontes utilizadas: Guia Definitivo da Formação em Engenharia de Software Java:
                    https://www.youtube.com/watch?v=nODe5lFcGpg
                    https://www.youtube.com/watch?v=ijXXaIYsVx4
                    https://www.youtube.com/watch?v=yWU5bm_pZzY
+
+<img width="1916" height="959" alt="5 - Pergunta 2" src="https://github.com/user-attachments/assets/e297eb9b-5ccf-408a-b15c-577266706b4f" />
+<img width="1918" height="963" alt="6 - Pergunta 2 1" src="https://github.com/user-attachments/assets/9b76f02c-524f-4349-9f13-51da8dcd5820" />
+<img width="1911" height="953" alt="7 - Pergunta 2 2" src="https://github.com/user-attachments/assets/1af01342-bb0f-4d4b-87b8-5919007ba7e0" />
+<img width="1915" height="961" alt="8 - Pergunta 2 3" src="https://github.com/user-attachments/assets/2de7e095-13f7-4bdf-9c66-539ed9cee606" />
+<img width="1915" height="963" alt="9 - Pergunta 2 4" src="https://github.com/user-attachments/assets/4dc653e7-3a73-404e-8fc3-d0cb107c242c" />
+
 
 Pergunta 3
 
@@ -141,6 +154,12 @@ Fontes utilizadas: Guia Definitivo da Formação em Engenharia de Software Java:
                    https://aleatorio.dev.br/posts/como-comecar-programar-java/
                    https://www.guj.com.br/t/quero-aprender-java/397015/
                    https://www.devvagas.com.br/vagas/java
+
+<img width="1913" height="958" alt="10 - Pergunta 3" src="https://github.com/user-attachments/assets/5ba65029-a7ad-4766-98c8-6a3adcf84710" />
+<img width="1906" height="957" alt="11 - Pergunta 3 1" src="https://github.com/user-attachments/assets/55ef928b-fcb7-45b1-a2b3-5a617fabc319" />
+<img width="1914" height="964" alt="12 - Pergunta 3 2" src="https://github.com/user-attachments/assets/9d8c6173-a8d4-457e-9bf1-74d4509b954f" />
+
+
 
 🔗 Link do notebook compartilhado
 
