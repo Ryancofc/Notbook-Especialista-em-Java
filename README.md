@@ -1,4 +1,4 @@
-# Notbook Especialista em Java
+# Notbook Gemini - Especialista em Java
 
 🎯 Tema e objetivo
 
